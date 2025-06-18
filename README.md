@@ -1,6 +1,6 @@
 # Exercício flexbox e variáveis card-profile.
 Uso de variáveis no css, alinhamento usando propriedade flexbox.
-## Tecnologias utlizadas
+## Tecnologias utilizadas
 - HTML5
 - CSS3
 ## Objetivos
